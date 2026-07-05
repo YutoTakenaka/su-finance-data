@@ -15,5 +15,22 @@
     "deleted": false,
     "created_at": "2026-07-05T12:09:09+09:00",
     "updated_at": "2026-07-05T12:09:22+09:00"
+  },
+  {
+    "id": "exp_20260619_001",
+    "date": "2026-06-19",
+    "month": "2026/06",
+    "event": "6月懇親会",
+    "payer": "さとる",
+    "description": "オードブル",
+    "amount": 100000,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-07-05T12:11:56+09:00",
+    "updated_at": "2026-07-05T12:11:56+09:00"
   }
 ]
