@@ -6,11 +6,11 @@
     "event": "6月キックオフ",
     "payer": "脱兎",
     "amount": 100000,
-    "confirmed": false,
+    "confirmed": true,
     "note": "",
     "created_role": "admin",
     "deleted": false,
     "created_at": "2026-07-05T12:09:58+09:00",
-    "updated_at": "2026-07-05T12:09:58+09:00"
+    "updated_at": "2026-07-05T12:10:04+09:00"
   }
 ]
