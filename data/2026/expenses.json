@@ -10,11 +10,19 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1783222033844_e82ca7.pdf",
+        "original": "SSC_20260620_Surprise University - Project様_竹中 優斗様_INF076378 - 御請求書.pdf",
+        "content_type": "application/pdf",
+        "size": 124756,
+        "uploaded_at": "2026-07-05T12:27:13+09:00"
+      }
+    ],
     "created_role": "admin",
     "deleted": false,
     "created_at": "2026-07-05T12:09:09+09:00",
-    "updated_at": "2026-07-05T12:27:04+09:00"
+    "updated_at": "2026-07-05T12:27:13+09:00"
   },
   {
     "id": "exp_20260619_001",
