@@ -189,15 +189,15 @@
     "month": "2026/06",
     "event": "6月懇親会",
     "payer": "やなぎ",
-    "description": "プリン容器など",
-    "amount": 660,
+    "description": "プリン代金",
+    "amount": 3640,
     "status": "unsettled",
     "settled_date": null,
-    "note": "",
+    "note": "食材費、容器",
     "receipts": [],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-10T08:10:29+09:00",
-    "updated_at": "2026-07-10T08:14:37+09:00"
+    "updated_at": "2026-07-10T08:17:47+09:00"
   }
 ]
