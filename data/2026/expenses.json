@@ -182,5 +182,22 @@
     "deleted": false,
     "created_at": "2026-07-09T12:38:42+09:00",
     "updated_at": "2026-07-09T12:38:56+09:00"
+  },
+  {
+    "id": "exp_20260620_002",
+    "date": "2026-06-20",
+    "month": "2026/06",
+    "event": "6月懇親会",
+    "payer": "やなぎ",
+    "description": "プリン容器など",
+    "amount": 660,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-07-10T08:10:29+09:00",
+    "updated_at": "2026-07-10T08:10:29+09:00"
   }
 ]
