@@ -190,10 +190,10 @@
     "event": "6月懇親会",
     "payer": "やなぎ",
     "description": "プリン代金",
-    "amount": 3640,
+    "amount": 4630,
     "status": "unsettled",
     "settled_date": null,
-    "note": "食材費、容器",
+    "note": "食材費、容器、保冷剤など",
     "receipts": [
       {
         "name": "1783639076667_4b307a.jpg",
@@ -241,6 +241,6 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-10T08:10:29+09:00",
-    "updated_at": "2026-07-10T08:20:06+09:00"
+    "updated_at": "2026-07-10T08:20:50+09:00"
   }
 ]
