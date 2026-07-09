@@ -194,10 +194,39 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "食材費、容器",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1783639076667_4b307a.jpg",
+        "original": "img_4380_720.jpg",
+        "content_type": "image/jpeg",
+        "size": 66076,
+        "uploaded_at": "2026-07-10T08:17:56+09:00"
+      },
+      {
+        "name": "1783639076667_039632.jpg",
+        "original": "img_4381_720.jpg",
+        "content_type": "image/jpeg",
+        "size": 62172,
+        "uploaded_at": "2026-07-10T08:17:56+09:00"
+      },
+      {
+        "name": "1783639076668_d9b053.jpg",
+        "original": "img_4382_720.jpg",
+        "content_type": "image/jpeg",
+        "size": 70941,
+        "uploaded_at": "2026-07-10T08:17:56+09:00"
+      },
+      {
+        "name": "1783639076668_5ce91b.jpg",
+        "original": "img_4385_720.jpg",
+        "content_type": "image/jpeg",
+        "size": 68090,
+        "uploaded_at": "2026-07-10T08:17:56+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-10T08:10:29+09:00",
-    "updated_at": "2026-07-10T08:17:47+09:00"
+    "updated_at": "2026-07-10T08:17:56+09:00"
   }
 ]
