@@ -259,5 +259,22 @@
     "deleted": false,
     "created_at": "2026-07-12T08:23:35+09:00",
     "updated_at": "2026-07-12T08:23:35+09:00"
+  },
+  {
+    "id": "exp_20260620_004",
+    "date": "2026-06-20",
+    "month": "2026/06",
+    "event": "6月懇親会",
+    "payer": "ちんねん（鈴木和彦）",
+    "description": "1カ所目の会場キャンセル",
+    "amount": 14685,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "キャンセル費用",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-07-12T08:25:03+09:00",
+    "updated_at": "2026-07-12T08:25:03+09:00"
   }
 ]
