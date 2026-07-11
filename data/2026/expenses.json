@@ -288,10 +288,18 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1783812646783_803cb3.png",
+        "original": "IMG_4909.png",
+        "content_type": "image/png",
+        "size": 213449,
+        "uploaded_at": "2026-07-12T08:30:46+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-12T08:26:22+09:00",
-    "updated_at": "2026-07-12T08:26:22+09:00"
+    "updated_at": "2026-07-12T08:30:46+09:00"
   }
 ]
