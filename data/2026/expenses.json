@@ -66,8 +66,8 @@
     "payer": "さとる",
     "description": "お菓子",
     "amount": 2010,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-07-22",
     "note": "",
     "receipts": [
       {
@@ -81,7 +81,7 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-09T12:33:39+09:00",
-    "updated_at": "2026-07-09T12:34:23+09:00"
+    "updated_at": "2026-07-22T06:56:53+09:00"
   },
   {
     "id": "exp_20260524_001",
