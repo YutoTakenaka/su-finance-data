@@ -141,8 +141,8 @@
     "payer": "さとる",
     "description": "お菓子入れ",
     "amount": 220,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-07-22",
     "note": "",
     "receipts": [
       {
@@ -156,7 +156,7 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-09T12:37:42+09:00",
-    "updated_at": "2026-07-09T12:38:00+09:00"
+    "updated_at": "2026-07-22T06:56:54+09:00"
   },
   {
     "id": "exp_20260617_001",
