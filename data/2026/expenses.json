@@ -49,14 +49,14 @@
     "payer": "澤田",
     "description": "緊急購入の氷や備品",
     "amount": 6562,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-07-22",
     "note": "ファミマ＆東急ストア（領収書なし）",
     "receipts": [],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-09T09:53:32+09:00",
-    "updated_at": "2026-07-09T09:54:52+09:00"
+    "updated_at": "2026-07-22T06:56:50+09:00"
   },
   {
     "id": "exp_20260614_001",
