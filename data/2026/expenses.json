@@ -166,8 +166,8 @@
     "payer": "さとる",
     "description": "ケータリング",
     "amount": 111000,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-07-22",
     "note": "",
     "receipts": [
       {
@@ -181,7 +181,7 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-09T12:38:42+09:00",
-    "updated_at": "2026-07-09T12:38:56+09:00"
+    "updated_at": "2026-07-22T06:56:51+09:00"
   },
   {
     "id": "exp_20260620_002",
