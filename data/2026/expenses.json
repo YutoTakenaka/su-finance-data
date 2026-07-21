@@ -7,8 +7,8 @@
     "payer": "ゆうと",
     "description": "ソラスタ会場費",
     "amount": 137500,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-07-22",
     "note": "",
     "receipts": [
       {
@@ -22,7 +22,7 @@
     "created_role": "admin",
     "deleted": false,
     "created_at": "2026-07-05T12:09:09+09:00",
-    "updated_at": "2026-07-05T12:27:56+09:00"
+    "updated_at": "2026-07-22T06:56:43+09:00"
   },
   {
     "id": "exp_20260619_001",
