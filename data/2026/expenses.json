@@ -251,8 +251,8 @@
     "payer": "ちんねん（鈴木和彦）",
     "description": "会場費",
     "amount": 116655,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-07-31",
     "note": "",
     "receipts": [
       {
@@ -266,7 +266,7 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-12T08:23:35+09:00",
-    "updated_at": "2026-07-12T08:33:52+09:00"
+    "updated_at": "2026-07-31T07:11:19+09:00"
   },
   {
     "id": "exp_20260620_004",
