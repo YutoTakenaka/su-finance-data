@@ -63,10 +63,10 @@
     "payer": "けい",
     "amount": 70000,
     "confirmed": false,
-    "note": "",
+    "note": "https://docs.google.com/spreadsheets/d/1BXB33NPnrDpyUEJPBksD7UDWnLKU9Xs4tC3UgHhJdBQ/edit?usp=sharing",
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-08-01T17:29:35+09:00",
-    "updated_at": "2026-08-01T17:30:35+09:00"
+    "updated_at": "2026-08-01T17:42:15+09:00"
   }
 ]
