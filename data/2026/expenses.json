@@ -336,12 +336,19 @@
         "content_type": "image/jpeg",
         "size": 1529509,
         "uploaded_at": "2026-08-01T17:40:57+09:00"
+      },
+      {
+        "name": "1785573705207_989a5f.jpg",
+        "original": "IMG_4396.jpg",
+        "content_type": "image/jpeg",
+        "size": 1498230,
+        "uploaded_at": "2026-08-01T17:41:45+09:00"
       }
     ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-31T07:26:04+09:00",
-    "updated_at": "2026-08-01T17:40:57+09:00"
+    "updated_at": "2026-08-01T17:41:45+09:00"
   },
   {
     "id": "exp_20260725_002",
