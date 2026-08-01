@@ -326,8 +326,8 @@
     "payer": "やなぎ",
     "description": "懇親会食材費",
     "amount": 11052,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-08-02",
     "note": "",
     "receipts": [
       {
@@ -348,7 +348,7 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-07-31T07:26:04+09:00",
-    "updated_at": "2026-08-01T17:41:45+09:00"
+    "updated_at": "2026-08-02T07:04:30+09:00"
   },
   {
     "id": "exp_20260725_002",
