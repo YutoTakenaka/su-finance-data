@@ -524,5 +524,22 @@
     "deleted": false,
     "created_at": "2026-08-09T16:01:52+09:00",
     "updated_at": "2026-08-09T16:05:46+09:00"
+  },
+  {
+    "id": "exp_20260821_001",
+    "date": "2026-08-21",
+    "month": "2026/08",
+    "event": "8月月例イベント",
+    "payer": "山際",
+    "description": "画用紙代",
+    "amount": 980,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-08-21T07:01:01+09:00",
+    "updated_at": "2026-08-21T07:01:01+09:00"
   }
 ]
