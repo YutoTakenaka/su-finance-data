@@ -758,9 +758,9 @@
     "note": "150円×21名",
     "receipts": [],
     "created_role": "admin",
-    "deleted": false,
+    "deleted": true,
     "created_at": "2026-08-23T17:20:11+09:00",
-    "updated_at": "2026-08-23T17:20:11+09:00"
+    "updated_at": "2026-08-23T17:20:47+09:00"
   },
   {
     "id": "exp_20260822_006",
