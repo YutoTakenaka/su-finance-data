@@ -727,5 +727,22 @@
     "deleted": false,
     "created_at": "2026-08-23T16:02:49+09:00",
     "updated_at": "2026-08-23T16:07:36+09:00"
+  },
+  {
+    "id": "exp_20260822_004",
+    "date": "2026-08-22",
+    "month": "2026/08",
+    "event": "8月月例イベント",
+    "payer": "スズなり",
+    "description": "中川船番所入館料",
+    "amount": 3150,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "150円×21名",
+    "receipts": [],
+    "created_role": "admin",
+    "deleted": false,
+    "created_at": "2026-08-23T17:20:11+09:00",
+    "updated_at": "2026-08-23T17:20:11+09:00"
   }
 ]
