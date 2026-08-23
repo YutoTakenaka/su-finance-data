@@ -925,10 +925,18 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1787478251241_a60919.jpg",
+        "original": "IMG_20260823_183600406_HDR_AE.jpg",
+        "content_type": "image/jpeg",
+        "size": 5772328,
+        "uploaded_at": "2026-08-23T18:44:11+09:00"
+      }
+    ],
     "created_role": "admin",
     "deleted": false,
     "created_at": "2026-08-23T18:43:13+09:00",
-    "updated_at": "2026-08-23T18:43:13+09:00"
+    "updated_at": "2026-08-23T18:44:11+09:00"
   }
 ]
