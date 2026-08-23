@@ -689,11 +689,19 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1787468723098_6608d1.jpg",
+        "original": "IMG_4935.JPG",
+        "content_type": "image/jpeg",
+        "size": 2494185,
+        "uploaded_at": "2026-08-23T16:05:23+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-08-23T16:02:10+09:00",
-    "updated_at": "2026-08-23T16:02:10+09:00"
+    "updated_at": "2026-08-23T16:05:23+09:00"
   },
   {
     "id": "exp_20260822_003",
