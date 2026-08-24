@@ -971,7 +971,7 @@
     "event": "8月懇親会",
     "payer": "やなぎ",
     "description": "懇親会料理代金",
-    "amount": 17647,
+    "amount": 17676,
     "status": "unsettled",
     "settled_date": null,
     "note": "",
@@ -979,6 +979,6 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-08-24T22:14:31+09:00",
-    "updated_at": "2026-08-24T22:14:31+09:00"
+    "updated_at": "2026-08-24T22:18:31+09:00"
   }
 ]
