@@ -76,12 +76,12 @@
     "event": "8月月例イベント",
     "payer": "スズなり",
     "amount": 12650,
-    "confirmed": false,
+    "confirmed": true,
     "note": "",
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-08-22T13:58:34+09:00",
-    "updated_at": "2026-08-23T16:27:34+09:00"
+    "updated_at": "2026-08-27T00:09:12+09:00"
   },
   {
     "id": "inc_20260822_002",
