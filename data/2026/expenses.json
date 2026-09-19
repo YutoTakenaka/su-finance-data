@@ -1065,5 +1065,22 @@
     "deleted": false,
     "created_at": "2026-08-24T22:14:31+09:00",
     "updated_at": "2026-08-27T00:01:53+09:00"
+  },
+  {
+    "id": "exp_20260906_001",
+    "date": "2026-09-06",
+    "month": "2026/09",
+    "event": "9月月例イベント",
+    "payer": "ふなハル",
+    "description": "カードスリーブ代",
+    "amount": 699,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-09-19T14:56:53+09:00",
+    "updated_at": "2026-09-19T14:56:53+09:00"
   }
 ]
