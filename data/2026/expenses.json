@@ -1099,5 +1099,22 @@
     "deleted": false,
     "created_at": "2026-09-19T14:57:52+09:00",
     "updated_at": "2026-09-19T14:57:52+09:00"
+  },
+  {
+    "id": "exp_20260916_001",
+    "date": "2026-09-16",
+    "month": "2026/09",
+    "event": "9月月例イベント",
+    "payer": "ふなハル",
+    "description": "サーバー取得代",
+    "amount": 971,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-09-19T14:58:29+09:00",
+    "updated_at": "2026-09-19T14:58:29+09:00"
   }
 ]
