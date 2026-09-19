@@ -1082,5 +1082,22 @@
     "deleted": false,
     "created_at": "2026-09-19T14:56:53+09:00",
     "updated_at": "2026-09-19T14:56:53+09:00"
+  },
+  {
+    "id": "exp_20260913_001",
+    "date": "2026-09-13",
+    "month": "2026/09",
+    "event": "9月月例イベント",
+    "payer": "ふなハル",
+    "description": "テストプリント代",
+    "amount": 240,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-09-19T14:57:52+09:00",
+    "updated_at": "2026-09-19T14:57:52+09:00"
   }
 ]
