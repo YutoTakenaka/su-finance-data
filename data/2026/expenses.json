@@ -1162,11 +1162,19 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1790468056931_8f65fd.jpeg",
+        "original": "IMG_3661.jpeg",
+        "content_type": "image/jpeg",
+        "size": 7131079,
+        "uploaded_at": "2026-09-27T09:14:17+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-27T09:12:41+09:00",
-    "updated_at": "2026-09-27T09:12:41+09:00"
+    "updated_at": "2026-09-27T09:14:17+09:00"
   },
   {
     "id": "exp_20260926_003",
