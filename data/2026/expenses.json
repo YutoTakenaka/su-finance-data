@@ -1200,5 +1200,22 @@
     "deleted": false,
     "created_at": "2026-09-27T09:13:25+09:00",
     "updated_at": "2026-09-27T09:14:06+09:00"
+  },
+  {
+    "id": "exp_20260925_001",
+    "date": "2026-09-25",
+    "month": "2026/09",
+    "event": "9月懇親会",
+    "payer": "ゆか",
+    "description": "持ち寄り品の食費",
+    "amount": 2495,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-09-27T15:35:12+09:00",
+    "updated_at": "2026-09-27T15:35:12+09:00"
   }
 ]
