@@ -1133,5 +1133,22 @@
     "deleted": false,
     "created_at": "2026-09-19T14:59:13+09:00",
     "updated_at": "2026-09-19T14:59:13+09:00"
+  },
+  {
+    "id": "exp_20260926_001",
+    "date": "2026-09-26",
+    "month": "2026/09",
+    "event": "9月懇親会",
+    "payer": "澤田",
+    "description": "懇親会ドリンクおよびツマミ",
+    "amount": 24623,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "2回に分けて買い出し",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-09-27T09:11:12+09:00",
+    "updated_at": "2026-09-27T09:11:12+09:00"
   }
 ]
