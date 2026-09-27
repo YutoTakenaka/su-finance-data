@@ -96,5 +96,19 @@
     "deleted": false,
     "created_at": "2026-08-23T16:58:58+09:00",
     "updated_at": "2026-08-27T00:10:01+09:00"
+  },
+  {
+    "id": "inc_20260927_001",
+    "date": "2026-09-27",
+    "month": "2026/09",
+    "event": "10月月例イベント",
+    "payer": "澤田",
+    "amount": 90000,
+    "confirmed": false,
+    "note": "30人×3000円",
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-09-27T09:07:42+09:00",
+    "updated_at": "2026-09-27T09:07:42+09:00"
   }
 ]
