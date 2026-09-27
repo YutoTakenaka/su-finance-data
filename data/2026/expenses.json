@@ -1207,8 +1207,8 @@
     "month": "2026/09",
     "event": "9月懇親会",
     "payer": "ゆか",
-    "description": "持ち寄り品の食費",
-    "amount": 2495,
+    "description": "持ち寄り品の食費と消耗品",
+    "amount": 3269,
     "status": "unsettled",
     "settled_date": null,
     "note": "",
@@ -1216,6 +1216,6 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-27T15:35:12+09:00",
-    "updated_at": "2026-09-27T15:35:12+09:00"
+    "updated_at": "2026-09-27T15:36:43+09:00"
   }
 ]
