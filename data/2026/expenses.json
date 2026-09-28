@@ -1293,11 +1293,18 @@
         "content_type": "image/jpeg",
         "size": 2134565,
         "uploaded_at": "2026-09-29T07:55:59+09:00"
+      },
+      {
+        "name": "1790636165026_b20e47.jpg",
+        "original": "IMG_4563.jpg",
+        "content_type": "image/jpeg",
+        "size": 2968447,
+        "uploaded_at": "2026-09-29T07:56:05+09:00"
       }
     ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-29T07:46:28+09:00",
-    "updated_at": "2026-09-29T07:55:59+09:00"
+    "updated_at": "2026-09-29T07:56:05+09:00"
   }
 ]
