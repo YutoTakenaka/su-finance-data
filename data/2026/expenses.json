@@ -1236,7 +1236,7 @@
     "amount": 28000,
     "status": "unsettled",
     "settled_date": null,
-    "note": "",
+    "note": "一部あまり食材ありのため、レシートの金額より少なめに請求しています。",
     "receipts": [
       {
         "name": "1790635850474_9ad8ff.pdf",
@@ -1340,6 +1340,6 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-29T07:46:28+09:00",
-    "updated_at": "2026-09-29T07:56:33+09:00"
+    "updated_at": "2026-09-29T07:57:57+09:00"
   }
 ]
