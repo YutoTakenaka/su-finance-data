@@ -1279,11 +1279,18 @@
         "content_type": "image/jpeg",
         "size": 1770133,
         "uploaded_at": "2026-09-29T07:55:50+09:00"
+      },
+      {
+        "name": "1790636155267_3e8e44.jpg",
+        "original": "IMG_4548.jpg",
+        "content_type": "image/jpeg",
+        "size": 1671619,
+        "uploaded_at": "2026-09-29T07:55:55+09:00"
       }
     ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-29T07:46:28+09:00",
-    "updated_at": "2026-09-29T07:55:50+09:00"
+    "updated_at": "2026-09-29T07:55:55+09:00"
   }
 ]
