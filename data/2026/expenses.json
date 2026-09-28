@@ -1272,11 +1272,18 @@
         "content_type": "application/pdf",
         "size": 46238,
         "uploaded_at": "2026-09-29T07:51:06+09:00"
+      },
+      {
+        "name": "1790636150083_7b8f68.jpg",
+        "original": "IMG_4540.jpg",
+        "content_type": "image/jpeg",
+        "size": 1770133,
+        "uploaded_at": "2026-09-29T07:55:50+09:00"
       }
     ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-29T07:46:28+09:00",
-    "updated_at": "2026-09-29T07:51:06+09:00"
+    "updated_at": "2026-09-29T07:55:50+09:00"
   }
 ]
