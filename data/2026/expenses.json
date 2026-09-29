@@ -1386,11 +1386,11 @@
     "amount": 2080,
     "status": "unsettled",
     "settled_date": null,
-    "note": "申し訳ございません、9月月例の分、全て領収書残してませんでした...。次回から添付しますm(_)m",
+    "note": "申し訳ございません、9月月例の分、アナログの方は全て領収書残してませんでした...。次回から添付しますm(_)m",
     "receipts": [],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-29T20:58:27+09:00",
-    "updated_at": "2026-09-29T20:58:50+09:00"
+    "updated_at": "2026-09-29T21:08:36+09:00"
   }
 ]
