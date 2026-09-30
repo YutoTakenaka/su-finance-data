@@ -1408,5 +1408,22 @@
     "deleted": false,
     "created_at": "2026-09-29T20:58:27+09:00",
     "updated_at": "2026-09-29T21:08:36+09:00"
+  },
+  {
+    "id": "exp_20260926_006",
+    "date": "2026-09-26",
+    "month": "2026/09",
+    "event": "9月月例イベント",
+    "payer": "さとる",
+    "description": "会場費",
+    "amount": 80850,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-09-30T20:07:38+09:00",
+    "updated_at": "2026-09-30T20:07:38+09:00"
   }
 ]
