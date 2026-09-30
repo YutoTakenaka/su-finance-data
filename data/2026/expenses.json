@@ -1487,10 +1487,18 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1790766699901_55263c.pdf",
+        "original": "0919レンタルスペース.pdf",
+        "content_type": "application/pdf",
+        "size": 227186,
+        "uploaded_at": "2026-09-30T20:11:39+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-30T20:11:24+09:00",
-    "updated_at": "2026-09-30T20:11:24+09:00"
+    "updated_at": "2026-09-30T20:11:39+09:00"
   }
 ]
