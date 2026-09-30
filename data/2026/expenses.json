@@ -1445,10 +1445,18 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1790766616636_e9ef8b.pdf",
+        "original": "0905レンタルスペース.pdf",
+        "content_type": "application/pdf",
+        "size": 226481,
+        "uploaded_at": "2026-09-30T20:10:16+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-30T20:09:57+09:00",
-    "updated_at": "2026-09-30T20:09:57+09:00"
+    "updated_at": "2026-09-30T20:10:16+09:00"
   }
 ]
