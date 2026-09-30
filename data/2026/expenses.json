@@ -1470,11 +1470,19 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1790766715153_8c8fe5.pdf",
+        "original": "0913レンタルスペース.pdf",
+        "content_type": "application/pdf",
+        "size": 227184,
+        "uploaded_at": "2026-09-30T20:11:55+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-30T20:10:51+09:00",
-    "updated_at": "2026-09-30T20:10:51+09:00"
+    "updated_at": "2026-09-30T20:11:55+09:00"
   },
   {
     "id": "exp_20260919_002",
