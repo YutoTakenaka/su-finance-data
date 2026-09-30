@@ -1562,10 +1562,18 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1790766972653_0f1631.heic",
+        "original": "カセットボンベ代.HEIC",
+        "content_type": "image/heic",
+        "size": 1641553,
+        "uploaded_at": "2026-09-30T20:16:12+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-30T20:15:56+09:00",
-    "updated_at": "2026-09-30T20:15:56+09:00"
+    "updated_at": "2026-09-30T20:16:12+09:00"
   }
 ]
