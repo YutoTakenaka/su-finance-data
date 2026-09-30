@@ -1433,5 +1433,22 @@
     "deleted": false,
     "created_at": "2026-09-30T20:07:38+09:00",
     "updated_at": "2026-09-30T20:07:59+09:00"
+  },
+  {
+    "id": "exp_20260905_001",
+    "date": "2026-09-05",
+    "month": "2026/09",
+    "event": "9月月例イベント",
+    "payer": "さとる",
+    "description": "ロールプレイ・ミーティングレンタルスペース代",
+    "amount": 3081,
+    "status": "unsettled",
+    "settled_date": null,
+    "note": "",
+    "receipts": [],
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-09-30T20:09:57+09:00",
+    "updated_at": "2026-09-30T20:09:57+09:00"
   }
 ]
