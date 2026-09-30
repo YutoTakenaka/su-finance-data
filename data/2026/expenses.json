@@ -1520,10 +1520,18 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1790766766029_de7650.pdf",
+        "original": "0922レンタルスペース.pdf",
+        "content_type": "application/pdf",
+        "size": 227186,
+        "uploaded_at": "2026-09-30T20:12:46+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-30T20:12:29+09:00",
-    "updated_at": "2026-09-30T20:12:29+09:00"
+    "updated_at": "2026-09-30T20:12:46+09:00"
   }
 ]
