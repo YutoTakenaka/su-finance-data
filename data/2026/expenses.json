@@ -1567,8 +1567,8 @@
     "payer": "さとる",
     "description": "カセットボンベ代",
     "amount": 363,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-10-11",
     "note": "",
     "receipts": [
       {
@@ -1582,6 +1582,6 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-30T20:15:56+09:00",
-    "updated_at": "2026-09-30T20:16:12+09:00"
+    "updated_at": "2026-10-11T06:34:30+09:00"
   }
 ]
