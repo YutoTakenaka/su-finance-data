@@ -1400,14 +1400,14 @@
     "payer": "ふなハル",
     "description": "プリント代",
     "amount": 2080,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-10-11",
     "note": "申し訳ございません、9月月例の分、アナログの方は全て領収書残してませんでした...。次回から添付しますm(_)m",
     "receipts": [],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-29T20:58:27+09:00",
-    "updated_at": "2026-09-29T21:08:36+09:00"
+    "updated_at": "2026-10-11T07:04:16+09:00"
   },
   {
     "id": "exp_20260926_006",
