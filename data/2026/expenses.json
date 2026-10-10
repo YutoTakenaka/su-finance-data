@@ -1417,8 +1417,8 @@
     "payer": "さとる",
     "description": "会場費",
     "amount": 80850,
-    "status": "settled",
-    "settled_date": "2026-10-11",
+    "status": "unsettled",
+    "settled_date": null,
     "note": "",
     "receipts": [
       {
@@ -1432,7 +1432,7 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-30T20:07:38+09:00",
-    "updated_at": "2026-10-11T06:34:32+09:00"
+    "updated_at": "2026-10-11T06:34:45+09:00"
   },
   {
     "id": "exp_20260905_001",
