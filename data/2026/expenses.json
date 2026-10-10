@@ -1366,14 +1366,14 @@
     "payer": "ふなハル",
     "description": "カード制作備品代",
     "amount": 660,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-10-11",
     "note": "",
     "receipts": [],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-29T20:51:51+09:00",
-    "updated_at": "2026-09-29T20:51:51+09:00"
+    "updated_at": "2026-10-11T07:04:27+09:00"
   },
   {
     "id": "exp_20260923_001",
@@ -1492,8 +1492,8 @@
     "payer": "さとる",
     "description": "ロールプレイ・ミーティングレンタルスペース代",
     "amount": 7669,
-    "status": "unsettled",
-    "settled_date": null,
+    "status": "settled",
+    "settled_date": "2026-10-11",
     "note": "",
     "receipts": [
       {
@@ -1507,7 +1507,7 @@
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-09-30T20:11:24+09:00",
-    "updated_at": "2026-09-30T20:11:39+09:00"
+    "updated_at": "2026-10-11T07:04:28+09:00"
   },
   {
     "id": "exp_20260922_001",
