@@ -1712,11 +1712,19 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1793367560489_8566b1.jpg",
+        "original": "IMG_5472.jpg",
+        "content_type": "image/jpeg",
+        "size": 502462,
+        "uploaded_at": "2026-10-30T22:39:20+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-10-30T22:31:01+09:00",
-    "updated_at": "2026-10-30T22:31:01+09:00"
+    "updated_at": "2026-10-30T22:39:20+09:00"
   },
   {
     "id": "exp_20261024_001",
