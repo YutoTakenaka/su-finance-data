@@ -131,12 +131,12 @@
     "month": "2026/10",
     "event": "10月月例イベント",
     "payer": "やっしー",
-    "amount": 87100,
+    "amount": 41500,
     "confirmed": true,
-    "note": "3900×19、1500×8、500×2",
+    "note": "1500×27、500×2",
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-10-25T20:31:32+09:00",
-    "updated_at": "2026-10-28T06:36:50+09:00"
+    "updated_at": "2026-10-30T22:42:37+09:00"
   }
 ]
