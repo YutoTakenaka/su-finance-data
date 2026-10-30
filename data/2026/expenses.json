@@ -1637,11 +1637,19 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1793367494448_f20d0d.jpg",
+        "original": "IMG_5468.JPG",
+        "content_type": "image/jpeg",
+        "size": 131066,
+        "uploaded_at": "2026-10-30T22:38:14+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-10-30T22:27:38+09:00",
-    "updated_at": "2026-10-30T22:27:38+09:00"
+    "updated_at": "2026-10-30T22:38:14+09:00"
   },
   {
     "id": "exp_20261021_002",
