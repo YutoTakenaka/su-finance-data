@@ -1612,11 +1612,19 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1793367442729_957d17.pdf",
+        "original": "YUTORI御中_会場使用料_領収書_11.pdf",
+        "content_type": "application/pdf",
+        "size": 138773,
+        "uploaded_at": "2026-10-30T22:37:22+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-10-30T22:25:44+09:00",
-    "updated_at": "2026-10-30T22:25:44+09:00"
+    "updated_at": "2026-10-30T22:37:22+09:00"
   },
   {
     "id": "exp_20261021_001",
