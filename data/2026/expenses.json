@@ -1729,10 +1729,18 @@
     "status": "unsettled",
     "settled_date": null,
     "note": "",
-    "receipts": [],
+    "receipts": [
+      {
+        "name": "1793367551920_3ee0a3.jpg",
+        "original": "IMG_5470.jpg",
+        "content_type": "image/jpeg",
+        "size": 1061949,
+        "uploaded_at": "2026-10-30T22:39:11+09:00"
+      }
+    ],
     "created_role": "member",
     "deleted": false,
     "created_at": "2026-10-30T22:32:12+09:00",
-    "updated_at": "2026-10-30T22:32:12+09:00"
+    "updated_at": "2026-10-30T22:39:11+09:00"
   }
 ]
