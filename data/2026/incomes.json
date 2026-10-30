@@ -138,5 +138,19 @@
     "deleted": false,
     "created_at": "2026-10-25T20:31:32+09:00",
     "updated_at": "2026-10-30T22:42:37+09:00"
+  },
+  {
+    "id": "inc_20261025_002",
+    "date": "2026-10-25",
+    "month": "2026/10",
+    "event": "10月懇親会",
+    "payer": "やっしー",
+    "amount": 45600,
+    "confirmed": false,
+    "note": "2400×19",
+    "created_role": "member",
+    "deleted": false,
+    "created_at": "2026-10-30T22:44:02+09:00",
+    "updated_at": "2026-10-30T22:44:02+09:00"
   }
 ]
